@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Sajjan Yadav",
+      "username": "sajjany47",
+      "email": "sajjan@gmail.com",
+      "phone": "3467878234647gh",
+      "id": 1,
+      "password": "ewtertg"
+    },
+    {
+      "name": "Devendra Yadav",
+      "username": "devyadav",
+      "email": "devyadav3001@gmail.com",
+      "phone": "9007538603",
+      "id": 2,
+      "password": "arffsdgfd"
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "rohitsharma",
+      "email": "rohisharmat@gmail.com",
+      "phone": "6387186933",
+      "id": 3,
+      "password": "sadad"
+    },
+    {
+      "name": "sajjan",
+      "password": "sajhdfjd",
+      "email": "rohisharmat@gmail.com",
+      "phone": "34767634dfgdfh",
+      "id": 4
+    }
+  ]
+}
